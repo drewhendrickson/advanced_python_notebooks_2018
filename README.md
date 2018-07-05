@@ -1,2 +1,4 @@
-# advanced_python_notebooks_2018
-Lecture notebooks for Advanced Data Processing course Spring 2018
+## Lecture notebooks for Drew Hendrickson's Advanced Data Processing course in Spring 2018
+
+These notebooks were discussed in practical sessions and may not be complete on their own.
+
